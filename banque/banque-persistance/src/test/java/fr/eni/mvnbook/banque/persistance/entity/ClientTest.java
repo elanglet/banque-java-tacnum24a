@@ -60,7 +60,7 @@ public class ClientTest {
 	public void testEqualsObject() {
 		Client client2 = new Client();
 		client2.setId(12);
-		client2.setNom("DUPONT");
+		client2.setNom("DUPOND");
 		client2.setPrenom("Robert");
 		client2.setAdresse("40 rue de la Paix");
 		client2.setCodePostal("75007");	
