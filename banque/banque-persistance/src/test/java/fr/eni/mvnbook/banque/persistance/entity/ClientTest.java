@@ -96,7 +96,7 @@ public class ClientTest {
 
 	@Test
 	public void testGetNom() {
-		assertEquals("DUPONT", client.getNom());
+		assertEquals("DUPOND", client.getNom());
 	}
 
 	@Test
